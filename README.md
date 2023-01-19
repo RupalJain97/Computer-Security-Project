@@ -23,7 +23,7 @@ We aimed to perform a study of the cryptocurrency exchanges from the lens of sec
 * What are the tradeoffs when users try to offload their transactions to these exchanges?
 * What are the causes behind coin stealing attacks on these exchanges?
 
-##Snapshots
+## Snapshots
 
 ![CryptoGuard running for Bitfinex](image1.jpg)
 ![CryptoGuard running for Binance](image2.jpg)
