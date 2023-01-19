@@ -25,10 +25,10 @@ We aimed to perform a study of the cryptocurrency exchanges from the lens of sec
 
 ## Snapshots
 
-![CryptoGuard running for Bitfinex](/image1.jpg)
+![CryptoGuard running for Bitfinex](/images/image1.jpg)
 *Fig. 1*: *CryptoGuard running for Bitfinex*.
 
-![CryptoGuard running for Binance](/image2.jpg)
+![CryptoGuard running for Binance](/images/image2.jpg)
 *Fig. 2*: *CryptoGuard running for Binance*.
 
 ## References
